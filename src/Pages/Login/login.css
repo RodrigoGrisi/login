@@ -1,0 +1,45 @@
+.container {
+  background-color: #fff;
+  width: 780px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  border: 0;
+}
+
+.container h1 {
+  text-align: center;
+  font-size: 45px;
+  font-weight: bold;
+}
+
+.container p {
+  color: #767676;
+  font-size: 20px;
+  text-align: center;
+  margin-top: -5px;
+}
+
+.interval {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 45px;
+  margin-bottom: 45px;
+  width: 100%;
+  justify-content: center;
+}
+
+.interval .line {
+  width: 118px;
+  background-color: #cecece;
+  height: 1px;
+}
+
+.interval h2 {
+  font-size: 22px;
+  font-weight: 600;
+  margin: 10px;
+}
